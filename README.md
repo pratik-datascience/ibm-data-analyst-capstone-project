@@ -39,11 +39,8 @@
     │   ├── exploratory_analysis.ipynb
     │   └── visualization.ipynb
     │
-    ├── sql/
-    │   └── analysis_queries.sql
-    │
-    ├── dashboard/
-    │   └── dashboard_screenshots/
+    ├── screenshots
+    │  
     │
     ├── README.md
     └── requirements.txt
@@ -69,7 +66,7 @@
     
         Identified patterns in stock price and revenue movements
 
-## Visualization & Dashboard Design
+## Visualization
     Job Market Visualizations
     
     Skill Demand Bar Charts
@@ -129,7 +126,7 @@
     This project was completed as part of the
     IBM Data Analyst Professional Certificate – Coursera
     
-    🔗 Certificate Link: (Add your certificate link here)
+    🔗 Certificate Link: (file:///C:/Pratik/W/Data%20Analyst/COURSERA/CERTIFICATE/Coursera%20fiNAL%20CERTIFICATE.pdf)
 
 ## Author
 
