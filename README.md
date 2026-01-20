@@ -126,7 +126,7 @@
     This project was completed as part of the
     IBM Data Analyst Professional Certificate – Coursera
     
-    🔗 Certificate Link: (file:///C:/Pratik/W/Data%20Analyst/COURSERA/CERTIFICATE/Coursera%20fiNAL%20CERTIFICATE.pdf)
+🔗 Certificate Link: [Certificate](file:///C:/Pratik/W/Data%20Analyst/COURSERA/CERTIFICATE/Coursera%20fiNAL%20CERTIFICATE.pdf)
 
 ## Author
 
@@ -134,8 +134,8 @@
     BSc Computer Science Graduate
     Aspiring Data Analyst / Data Scientist
     
-    🔗 LinkedIn: www.linkedin.com/in/pratik-khobragade-722227319
-    🔗 GitHub: (your profile link](https://github.com/pratik-datascience)
+🔗 LinkedIn: [Linkdin Id](www.linkedin.com/in/pratik-khobragade-722227319)
+🔗 GitHub: [Git Hub](https://github.com/pratik-datascience)
 
 ## Acknowledgements
 
