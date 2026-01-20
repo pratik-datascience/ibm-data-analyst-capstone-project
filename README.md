@@ -135,7 +135,7 @@
     Aspiring Data Analyst / Data Scientist
     
     🔗 LinkedIn: www.linkedin.com/in/pratik-khobragade-722227319
-    🔗 GitHub: (your profile link)
+    🔗 GitHub: (your profile link](https://github.com/pratik-datascience)
 
 ## Acknowledgements
 
