@@ -126,7 +126,7 @@
     This project was completed as part of the
     IBM Data Analyst Professional Certificate – Coursera
     
-🔗 Certificate Link: [Certificate](file:///C:/Pratik/W/Data%20Analyst/COURSERA/CERTIFICATE/Coursera%20fiNAL%20CERTIFICATE.pdf)
+[Certificate](file:///C:/Pratik/W/Data%20Analyst/COURSERA/CERTIFICATE/Coursera%20fiNAL%20CERTIFICATE.pdf)
 
 ## Author
 
